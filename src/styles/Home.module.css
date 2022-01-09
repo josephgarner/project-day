@@ -36,6 +36,9 @@
 .title a {
   color: #0070f3;
   text-decoration: none;
+
+  animation: fadeIn;
+  animation-duration: 1s;
 }
 
 .title a:hover,
